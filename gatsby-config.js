@@ -29,7 +29,7 @@ module.exports = {
     title: "My Blog",
     author: "Muhamad Ivan",
     description: "A collection of my thoughts and writings.",
-    siteUrl: "https://frostmourne.blog/",
+    siteUrl: "https://bunny-rabbit.netlify.com/",
     social: [
       {
         name: "twitter",
