@@ -43,7 +43,7 @@ Here are the top-level files and directories you'll see in a site created using 
 gatsby-starter-blog-theme
 ├── content
 │ ├── assets
-│ │ └── avatar.png
+│ │ └── avatar.jpg
 │ └── posts
 │ ├── hello-world.mdx
 │ └── my-second-post.mdx
